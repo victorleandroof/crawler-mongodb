@@ -1,0 +1,27 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "Project web crawler with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorleandroof/crawler-mongodb.git"
+  },
+  "keywords": [
+    "crawler",
+    "mongodb",
+    "nodejs"
+  ],
+  "author": "Victor Samuel Leandro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorleandroof/crawler-mongodb/issues"
+  },
+  "homepage": "https://github.com/victorleandroof/crawler-mongodb#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
