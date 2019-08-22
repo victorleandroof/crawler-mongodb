@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node crawler.test | tap-spec",
-    "start": "nodemon src/server.js"
+    "start": "node src/server.js"
   },
   "author": "",
   "license": "ISC",
