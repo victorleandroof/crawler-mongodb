@@ -1,0 +1,12 @@
+
+
+ 
+
+module.exports = {
+ 
+  getParagraph(urlTarget){
+
+    
+  }
+
+}
